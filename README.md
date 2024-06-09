@@ -24,4 +24,4 @@ By optimizing supply chain processes, the project aims to improve operational ef
 - Dataset Link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
 ## Demonstration Video
-[Demo Link]()
+[Demo Link](https://drive.google.com/file/d/1BHcU2QClhcJu8F9WpINYWazuNGWlbu93/view?usp=sharing)
